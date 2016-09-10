@@ -1,0 +1,25 @@
+{
+  "name": "alexa-crop-doc",
+  "version": "0.0.1",
+  "description": "Quick skill crop docter using alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarpanda/alexa-crop-doc.git"
+  },
+  "author": "er.samarpanda@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarpanda/alexa-crop-doc/issues"
+  },
+  "homepage": "https://github.com/samarpanda/alexa-crop-doc#readme",
+  "devDependencies": {
+    "superagent": "^2.2.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
